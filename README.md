@@ -41,3 +41,5 @@
 * Depuração: A distância medida é impressa na porta serial para ajudar na depuração.
   
 #### Observa-se que pode-se expandir para mais sensores, além de utilizar a lógica de navegação mais avançada, controle de velocidade, entre outras melhorias que pode-se ser feito.
+
+#### Observação: Projeto e prototipagem em estudo;

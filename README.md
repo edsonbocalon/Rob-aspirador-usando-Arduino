@@ -46,3 +46,10 @@
 
 * Pesquisar a biblioteca e estudá-la!
 * Projeto e prototipagem em estudo!
+  
+4 -  Possíveis bibliotecas:
+
+* #include <Ultrasonic.h>;
+* #include <L298NX2.h>;
+* #include <L298N_MotorDriver.h>;
+* #include <L298N.h>;

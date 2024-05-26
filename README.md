@@ -42,4 +42,7 @@
   
 #### Observa-se que pode-se expandir para mais sensores, além de utilizar a lógica de navegação mais avançada, controle de velocidade, entre outras melhorias que pode-se ser feito.
 
-#### Observação: Projeto e prototipagem em estudo;
+# Observações:
+
+* Pesquisar a biblioteca e estudá-la!
+* Projeto e prototipagem em estudo!
